@@ -1,0 +1,49 @@
+body{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(75, 73, 73);
+    color: whitesmoke;
+    padding: 25px;
+}
+@font-face{
+    font-family: CrazyFont;
+    src: url(/fonts/super_squad/Super\ Squad.ttf)
+}
+
+* {
+    font-family: CrazyFont;
+}
+
+
+h1{
+    font-family: CrazyFont;
+    font-size: 60px;
+    color: whitesmoke;
+}
+img{
+    width:35%
+}
+@font-face{
+    font-family: BlurFonto;
+    src: url(/fonts/marola/MAROLA__.TTF)
+}
+
+**{
+    font-family: BlurFonto;
+}
+
+a, p{
+    font-family: BlurFonto;
+    font-size: 50px;
+    padding: 320px;
+    color: rgb(3, 49, 35);
+    background: rgb(23, 21, 21);
+    transition: all 500ms;
+}
+a:hover{
+    color:rgb(86, 163, 95)
+}
+p:hover{
+    color: rgb(180, 19, 19);
+}

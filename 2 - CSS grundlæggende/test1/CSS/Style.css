@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(41, 39, 39);
+}
+h1, h2{
+    color: rgb(221, 222, 229);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 101.5px
+}
+body{
+    display: grid;
+    justify-content: center;
+    align-content: space-evenly;
+    padding: 35px;
+}
+.thumbnail{
+    width: 480px;
+}

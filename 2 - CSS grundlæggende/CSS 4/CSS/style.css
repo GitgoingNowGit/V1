@@ -1,0 +1,13 @@
+@font-face {
+    font-family: custom;
+    src: url(/CSS\ 4/);
+}
+
+body{
+    background-color: rgb(55, 55, 55);
+    color: aliceblue;
+    line-height: 140%;
+}
+.google{
+    font-family: Roboto;
+}
